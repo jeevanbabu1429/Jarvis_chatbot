@@ -1,2 +1,16 @@
-# Jarvis_chatbot
-A Flutter-based chatbot app named Jarvis, utilizing the Gemini API key. Features include text, voice, and image input options with responses in text or voice. Provides a seamless and interactive user experience.
+# jarvis
+
+A new Flutter project.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
